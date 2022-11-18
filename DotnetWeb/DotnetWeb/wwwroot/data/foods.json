@@ -1,0 +1,27 @@
+﻿[
+  {
+    "name": "Kung Pao Chicken",
+    "price": "9.99",
+    "ingredients": "Chicken, Peanuts, Celery, Mushuroom"
+  },
+  {
+    "name": "Kung Pao Pork",
+    "price": "9.99",
+    "ingredients": "Pork, Peanuts, Celery, Mushuroom"
+  },
+  {
+    "name": "KungPao Beef",
+    "price": "10.99",
+    "ingredients": "Beef, Peanuts, Celery, Mushuroom"
+  },
+  {
+    "name": "KunG, Pao Shrimp",
+    "price": "11.99",
+    "ingredients": "Shrimp, Peanuts, Celery, Mushuroom"
+  },
+  {
+    "name": "Kung Pao Tofu",
+    "price": "8.99",
+    "ingredients": "Tofu, Peanuts, Celery, Mushuroom"
+  }
+]

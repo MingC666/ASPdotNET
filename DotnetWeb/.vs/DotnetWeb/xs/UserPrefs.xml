@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{56FD36A1-27CE-4AA6-8424-739AB1CED7CD}|https">
+  <MonoDevelop.Ide.ItemProperties.DotnetWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DotnetWeb/wwwroot/data/foods.json">
+    <Files>
+      <File FileName="DotnetWeb/Pages/Index.cshtml" Line="16" Column="22" />
+      <File FileName="DotnetWeb/Module/Product.cs" Line="8" Column="39" />
+      <File FileName="DotnetWeb/Module/Food.cs" Line="9" Column="16" />
+      <File FileName="DotnetWeb/Pages/Index.cshtml.cs" Line="28" Column="28" />
+      <File FileName="DotnetWeb/Program.cs" Line="14" Column="2" />
+      <File FileName="DotnetWeb/Services/JsonFileProductService.cs" Line="17" Column="63" />
+      <File FileName="DotnetWeb/wwwroot/data/foods.json" Line="24" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DotnetWeb" expanded="True">
+            <Node name="DotnetWeb" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Index.cshtml" expanded="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="data" expanded="True">
+                  <Node name="foods.json" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

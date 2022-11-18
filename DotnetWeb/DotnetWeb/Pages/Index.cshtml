@@ -1,0 +1,17 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+<div class="text-center">
+    <h1 class="display-4">Ming's Paradise</h1>
+    <p>Go to Goole Page <a href="https://www.google.com">Google</a></p>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+
+@foreach(var f in Model.Foods)
+{
+        <h2>@f.Info()</h2>
+}
